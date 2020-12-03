@@ -63,3 +63,8 @@ These keyboards are part of the QMK repository, but their manufacturers are not 
 * [XD004](/keyboards/xd004) &mdash; 1x4 macro keyboard sold by KPrepublic.
 * [XD75](/keyboards/xd75) &mdash; 15x5 ortholinear keyboard by XIUDI.
 * [YMDK NP21](/keyboards/ymdk_np21) &mdash; ps2avrGB based number pad (numpad) sold by YMDK on Aliexpress. 
+
+# Build Your Firmware 
+`qmk compile -kb <keyboard> -km <keymap>`
+
+
